@@ -411,6 +411,6 @@
   <asset name="binarytype.9.RG9jVHlwZSBDYXRlZ29yaWVz" displayName="DocType Categories">
     <implementation.generic type="binarytype" />
   </asset>
-  <buildInfo name="BuildVersion" value="10.3.25" />
+  <buildInfo name="BuildVersion" value="10.3.26" />
 </asset_composite>
 
